@@ -1,0 +1,33 @@
+/* h1{
+    color: blue;
+    
+} */
+ /* SELECTORES BASICOS
+ /* selector por nombre de etiqueta */
+ /*span{
+    /*text-align: center;aliniacion de texto
+    /* font-size: 50px; /* aumentar tamaño de letra */
+    /*1display: block; cambiando el comportamiento */
+
+    /* selectores por id
+    id(#) - clase (.) - atributo([])  */
+ /* #span2 {
+        color: red; /* color de texto */
+    }
+/* class */
+.color-rojo{
+    background-color: red;
+}
+.letra-cursiva{
+    font-style: italic;
+    font-weight: ;
+
+
+ /* selectores abyacentes o Hermanos*/
+ /*selector primer hermano */
+ div + p{
+    color: blue;
+    font-size: 25px;
+} */
+
+    /* selector todos los hermanos (~) */
